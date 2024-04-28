@@ -20,8 +20,8 @@ export default function Home() {
               src="/kabirkooh.svg"
               alt="kabirkooh Logo"
               className="dark:invert"
-              width={100}
-              height={24}
+              width={200}
+              height={124}
               priority
             />
           </a>
